@@ -2459,10 +2459,10 @@ node-redis-warlock@~0.2.0:
     node-redis-scripty "0.0.5"
     uuid "^2.0.1"
 
-nodemailer-express-handlebars@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/nodemailer-express-handlebars/-/nodemailer-express-handlebars-3.0.0.tgz#6ad913bba74e186d29831ce9bee30fd34b8f98be"
-  integrity sha1-atkTu6dOGG0pgxzpvuMP00uPmL4=
+nodemailer-express-handlebars@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/nodemailer-express-handlebars/-/nodemailer-express-handlebars-3.1.0.tgz#e80da7528cfd30a8dd49c002642854edcab72c68"
+  integrity sha512-JLt+lAlo/D3TfpVnDY+imLHAAonX5L9FEHaczyiPxWCH259bsfxEjPSWl/rWgnvcoFT8uC/hwHi/I0ScFmHlIQ==
   dependencies:
     express-handlebars "^3.0.0"
 
