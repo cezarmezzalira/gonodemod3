@@ -20,7 +20,7 @@
     "mongoose": "^5.5.13",
     "mongoose-paginate": "^5.0.3",
     "nodemailer": "^6.2.1",
-    "nodemailer-express-handlebars": "^3.0.0",
+    "nodemailer-express-handlebars": "^4.0.0",
     "require-dir": "^1.2.0",
     "youch": "^2.0.10"
   },
